@@ -1,6 +1,9 @@
 # Read-and-Write-into-CSV-File
 RaftLabs Assignment to read from a CSV file and add data into a CSV file.
 
+* Request you to download the project folder and run it on local machine by using the command
+  - node readFromCsv.js
+
 
 - Reading from the given Books.csv file and converted into JSON Format
 <img width="960" alt="Readingfromcsvand convertedintojson" src="https://user-images.githubusercontent.com/90322519/189857415-4de6f627-e747-436f-8eb7-f561c4b13efd.png">
