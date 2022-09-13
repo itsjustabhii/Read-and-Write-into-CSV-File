@@ -10,3 +10,10 @@ RaftLabs Assignment to read from a CSV file and add data into a CSV file.
 
 - Reading from the given magazines.csv file and converted into JSON Format
 <img width="960" alt="reading-magazinecsv-converted-to-json" src="https://user-images.githubusercontent.com/90322519/189857573-8ec485de-61ad-4075-aacb-0e30909e3889.png">
+
+
+- Display books sorted based on title
+<img width="959" alt="sort-by-title" src="https://user-images.githubusercontent.com/90322519/189982618-035665ee-9caf-456e-a414-8a39caaa57ad.png">
+
+- Display magazines sorted based on title
+<img width="960" alt="sort-magazine" src="https://user-images.githubusercontent.com/90322519/189982706-8dbd7a74-3eed-439c-aef0-b7e0474646eb.png">
