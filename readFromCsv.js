@@ -8,7 +8,7 @@ const PORT = 8000
 
 //We use 
 //Reads the data from CSV file
-fs.createReadStream('books.csv')
+fs.createReadStream('magazines.csv')
     .pipe(csv({}))
     .on('data', (data) => results.push(data))
     .on('end', (req, res) => {
