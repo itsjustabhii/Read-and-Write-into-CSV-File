@@ -6,11 +6,12 @@ const results = []
 
 const PORT = 8000
 
+//We use 
 //Reads the data from CSV file
 fs.createReadStream('books.csv')
     .pipe(csv({}))
     .on('data', (data) => results.push(data))
-    .on('end', () => {
+    .on('end', (req, res) => {
         console.log(results)
     })
 
